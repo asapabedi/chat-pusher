@@ -1,4 +1,4 @@
-## Using Laravel 5.4 + Pusher, A simple chat application.
+## Using Laravel 5.4 + Pusher to build a simple chat application.
 
 --------------------------------------------------------
-![Click to see DEMO](http://projectpage.ca)
+### __[Click to see DEMO](http://projectpage.ca)__
